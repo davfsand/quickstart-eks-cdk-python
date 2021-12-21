@@ -48,7 +48,7 @@
       "deploy_kubecost": "False",
       "kubecost_token": "aGVsbUBrdWJlY29zdC5jb20=xm343yadf98",
       "deploy_amp": "True",
-      "deploy_grafana_for_amp": "False",
+      "deploy_grafana_for_amp": "True",
       "fargate_only_cluster": "True",
       "fargate_logs_to_cloudwatch": "True",
       "fargate_logs_to_managed_opensearch": "False"
